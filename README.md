@@ -1,1 +1,8 @@
-# Predictive_Analysis_in_Hospitality_Sector
+# Predictive Analysis in the Hospitality Sector
+
+## Authors
+
+- Neha Rawat @Neha41093
+- Srikrishna S. @Srsridh
+- Shweta Kulkarni @kulsv
+
