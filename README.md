@@ -2,7 +2,7 @@
 
 ## Resources
 Revenue Prediction datasets from: https://www.kaggle.com/c/restaurant-revenue-prediction <br>
-Customer Forecasting datasets from: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/leaderboard <br>
+Customer Forecasting datasets from: https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting/ <br>
 
 ## Authors
 
