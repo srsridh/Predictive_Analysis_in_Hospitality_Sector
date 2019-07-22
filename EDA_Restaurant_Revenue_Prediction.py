@@ -6,19 +6,6 @@ import seaborn as sns
 import re
 import matplotlib.patches as mpatches
 
-"""
-from nltk import DecisionTreeClassifier
-from nltk.corpus import stopwords
-from sklearn.cross_validation import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.ensemble import RandomForestClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import accuracy_score
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
-from sklearn.tree import DecisionTreeClassifier
-"""
-
 
 train = pd.read_csv("train.csv")
 
